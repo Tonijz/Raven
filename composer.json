@@ -1,11 +1,11 @@
 {
-    "name": "rcrowe/raven",
+    "name": "tonijz/raven",
     "description": "Raven client for Sentry that supports background processing through multiple providers.",
-    "homepage": "https://github.com/rcrowe/Raven",
+    "homepage": "https://github.com/Tonijz/Raven",
     "keywords": ["sentry", "raven", "async", "background", "worker"],
     "authors": [
         {
-            "name": "Rob Crowe",
+            "name": "Crowe",
             "email": "hello@vivalacrowe.com"
         }
     ],
