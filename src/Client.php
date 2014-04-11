@@ -78,7 +78,7 @@ class Client extends Raven_Client
         // No handlers set, fallback to sync
         return array(
             new Sync
-        ];
+        );
     }
 
     /**
